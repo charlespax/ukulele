@@ -1,82 +1,68 @@
+Charles Pax - Magdalena's Song
 
 
-     C         F         G    
-  ╒═╤═╤═╕   ╒═╤═╤═╕   ╒═╤═╤═╕
-  │ │ │ │   │ │ ┿ │   │ │ │ │
-  ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤
-  │ │ │ │   ┿ │ │ │   │ ┿ │ ┿
-  ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤
-  │ │ │ ┿   │ │ │ │   │ │ ┿ │
-  ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤
-  │ │ │ │   │ │ │ │   │ │ │ │
-  0 0 0 3   2 0 1 0   0 1 3 2
+C            F               G F
+Fall for me, I'll catch you.
+C                          F               G F
+Knock me off balance and I might fall too.
+
+  C                      F           G F
+Tomorrow might never be another day.
+C                         F                 G F
+Let's make a plan, make a time, make a way.
 
 
-Verse: C      F   G      F
-       dduudu ddu dduudu dduudu
+Em                   G          E7       F
+I could swim in your eyes for a thousand years.
+   G         F              E7       E7#5
+For just one day I'd face a thousand fears.
+F             G       Em           F
+ I don't know how our little story ends.
+G          F            E7     E7#5
+ We may be lovers or we may be friends.
+
+C            F             G          F
+ When we're apart I find a hole in my heart.
+C            F           G            F
+ Is this the end or is today just the start
+C              F               G             F
+ I'll hold you close, oh baby, tightly in my bed
+C               F               G          F
+ Let's turn the page and take a tiny peek ahead
+
+Em                   G          E7       F
+I could swim in your eyes for a thousand years.
+   G         F              E7       E7#5
+For just one day I'd face a thousand fears.
+F             G       Em           F
+ I don't know how our little story ends.
+G          F            E7     E7#5
+ We may be lovers or we may be friends.
 
 
-Chorus: Unknown
+Notes
+-------------------------------------------------
+Strum pattern: dDuudu, repeated throughout
+
+Chords:
+     C         F         G         Em        E7       E7#5  
+  ╒═╤═╤═╕   ╒═╤═╤═╕   ╒═╤═╤═╕   ╒═╤═╤═╕   ╒═╤═╤═╕   ╒═╤═╤═╕   
+  │ │ │ │   │ │ ┿ │   │ │ │ │   │ │ │ │   ┿ │ │ │   ┿ │ │ │   
+  ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   
+  │ │ │ │   ┿ │ │ │   │ ┿ │ ┿   │ │ │ ┿   │ ┿ │ ┿   │ ┿ │ │    
+  ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   
+  │ │ │ ┿   │ │ │ │   │ │ ┿ │   │ │ ┿ │   │ │ │ │   │ │ │ ┿   
+  ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   
+  │ │ │ │   │ │ │ │   │ │ │ │   │ ┿ │ │   │ │ │ │   │ │ │ │   
+  0 0 0 3   2 0 1 0   0 1 3 2   0 0 0 3   0 0 0 3   0 0 0 3   
 
 
-Possible verses:
-
-C            F          G          F
-Fall for me, I'll catch you. Gunna put you in my pocket.
-
-C                        F         G          F
-Knock me off balance and I'll fall too. Let's do it together.
-
-  C                     F       G          F
-Tomorrow might never be another day. So let's make this one a double.
-
-C                           F            G      F
-Let's make a plan, make a time, make a way. I know we're gunna make it.
-
-
-<insert chorus here>
-
-        C                       F        G      F
-I could fall in your eyes for a thousand years. 
-
-    C                          F        G     F
-For just one moment I'd face a thousand fears.
-
-     C                    F          G      F
-When we're apart I find a hole in my heart. Nothing else can fill it.
-
-C      F      G      F
-    <"heart">
-
-<insert chorus here>
-
-C                    F     G           F
-I don't know how our story ends. But I sure do want to read it.
-
-   C                   F      G        F
-We may be lovers or we may be friends.
-
-
-Possible chorus:
-
-Oh. Everybody want to know.
-How this little story ends.
-Like you can turn a page to peak ahead
-We're trying to fight it 'cause we're still trying to write it.
-
-Time. It seems like we're running out.
-
-
-
-
-
-
-
-
-Abandoned verses:
-C                     F      G     F
-You have legs that go on for days.
-C                      F         G            F
-Take my hand and we'll walk this way. I don't know where we're goin'.
-
-
+Possible lyrics:
+-------------------------------------------------
+- You have legs that go on for days.
+- Take my hand and we'll walk this way
+- Everybody want to know.
+  How this little story ends.
+  Like you can turn a page to peak ahead
+  We're trying to fight it 'cause we're still trying to write it.
+- Time. It seems like we're running out.
