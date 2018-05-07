@@ -1,0 +1,47 @@
+Unknown - You Always Hurt the Ones You Love
+
+    C      Cmaj7    .       C6
+You always hurt the one you love
+    C                 .       F   .
+The one you shouldn't hurt at all
+    F      G7       .        G7
+You always take the sweetest rose
+    .           G7            C    .
+And crush it until the petals fall
+    C      Cmaj7     F       .
+You always break the kindest heart
+       D7             .        G7   .
+With a hasty word you can't recall
+    C    .          Cmaj7      .
+And if I broke your heart last night
+        D7     G7               C   .
+It's because I love you most of all
+C-G7-C-[ping]
+
+
+
+
+
+
+
+
+
+
+
+Notes:
+====================
+
+
+
+     C       Cmaj7      C6         F        G7        D7
+  ╒═╤═╤═╕   ╒═╤═╤═╕   ╒═╤═╤═╕   ╒═╤═╤═╕   ╒═╤═╤═╕   ╒═╤═╤═╕ 
+  │ │ │ │   │ │ │ │   │ │ │ │   │ │ ┿ │   │ │ ┿ │   │ │ │ │ 
+  ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤
+  │ │ │ │   │ │ │ ┿   │ │ │ │   ┿ │ │ │   │ ┿ │ ┿   ┿ ┿ ┿ │ 
+  ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤ 
+  │ │ │ ┿   │ │ │ │   │ │ │ │   │ │ │ │   │ │ │ │   │ │ │ ┿  
+  ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤   ├─┼─┼─┤ 
+  │ │ │ │   │ │ │ │   │ │ │ │   │ │ │ │   │ │ │ │   │ │ │ │ 
+  0 0 0 3   0 0 0 2   0 0 0 0   2 0 1 0   0 2 1 2   2 2 2 3  
+
+
